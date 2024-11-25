@@ -1,0 +1,92 @@
+---
+booktitle: Proceedings of the 9th Machine Learning for Healthcare Conference
+volume: '252'
+shortname: MLHC
+conference_number: '9'
+year: '2024'
+start: &1 2024-08-16
+end: 2024-08-17
+published: 2024-11-25
+url: https://proceedings.mlr.press
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: MLHC-2024
+month: 0
+cycles: false
+bibtex_editor: Deshpande, Kaivalya and Fiterau, Madalina and Joshi, Shalmali and Lipton,
+  Zachary and Ranganath, Rajesh and Urteaga, I\~nigo
+editor:
+- given: Kaivalya
+  family: Deshpande
+- given: Madalina
+  family: Fiterau
+- given: Shalmali
+  family: Joshi
+- given: Zachary
+  family: Lipton
+- given: Rajesh
+  family: Ranganath
+- given: Iñigo
+  family: Urteaga
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the 9th Machine Learning for Healthcare Conference
+    Held in Toronto, Canada on 16-17 August 2024
+
+  Published as Volume 252 by the Proceedings of Machine Learning Research on 25 November 2024.
+
+  Volume Edited by:
+    Kaivalya Deshpande
+    Madalina Fiterau
+    Shalmali Joshi
+    Zachary Lipton
+    Rajesh Ranganath
+    Iñigo Urteaga
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 16--17 Aug
+author:
+  name: PMLR
+baseurl: "/v252"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v252
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v252
+email: ''
+conference:
+  name: Machine Learning for Healthcare Conference
+  url:
+  location: Toronto, Canada
+  dates:
+  - *1
+  - 2024-08-17
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v252/mlhc2024_accepted_submissions.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v252/mlhc2024_accepted_submissions.bib
