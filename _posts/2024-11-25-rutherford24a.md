@@ -16,7 +16,6 @@ abstract: Reference classes in healthcare establish healthy norms, such as pedia
   class, and assigning clinical meaning to these deviations should be done with caution.
   Our approach also suggests that acquiring more representative samples is an urgent
   research priority.
-openreview: mako7lcwWF
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR

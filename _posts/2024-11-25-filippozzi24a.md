@@ -18,7 +18,6 @@ abstract: Healthcare datasets are often impacted by incorrect or mislabeled data
   are predicted from mislabeled data. The proposed technique is accurate and stable,
   avoiding overly optimistic assessments of prediction error, a significantly harmful
   burden in patient outcome prediction tasks in healthcare.
-openreview: LXcAXGtIkx
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
